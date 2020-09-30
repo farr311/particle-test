@@ -1,4 +1,4 @@
-local pex = require( "ponypex.com.ponywolf.pex" )
+local pex = require( "com.ponywolf.pex" )
 local particleData1 = pex.load("emitters/data.pex", "emitters/texture.png")
 --local particleData2 = pex.load("emitters/rocket_ignite.pex", "emitters/texture.png")
 
